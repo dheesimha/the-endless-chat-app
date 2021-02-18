@@ -1,5 +1,3 @@
-# the-endless-chat-app
-
 The Endless chat - a real time chatting application, is a desktop based application which is done using swing and socket programming of Java language.
 In this chat application, we aim to achieve communication among two applications, the server and the client.
 
